@@ -1,5 +1,7 @@
 # true
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/true.svg)](https://www.guardrails.io)
+
 ```console
 $ docker run --rm multiarch/true:linux_amd64 2>/dev/null; echo $?
 0
